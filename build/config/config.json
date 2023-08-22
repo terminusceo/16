@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x541E2EB985fAb46271841E0C68d0C976C6baB665",
+  "SCAN_LINK": "https://etherscan.io/0x541E2EB985fAb46271841E0C68d0C976C6baB665",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Midas Flex",
+  "SYMBOL": "FLEX",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 111000000000000000,
+  "DISPLAY_COST": 0.11100000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/midas-flex",
+  "SHOW_BACKGROUND": true
+}
